@@ -1,0 +1,5 @@
+[Rule]
+DOMAIN-SUFFIX,oracle.com,DIRECT
+DOMAIN-SUFFIX,oraclecloud.com,DIRECT
+DOMAIN-SUFFIX,oracleinfra.com,DIRECT
+DOMAIN-SUFFIX,ocir.io,DIRECT
