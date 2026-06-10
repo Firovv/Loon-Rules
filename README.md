@@ -1,2 +1,2 @@
-# Google-Loon-Rules
+#Loon-Rules
 Google.list
